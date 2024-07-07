@@ -9,6 +9,8 @@ For example, if there is less than 5 stocks or only 1 stock left, it notify you 
 
 It has option to remove or add any product URL as you want and checks every listed items every 5 hours for any update.
 
+![Screenshot (76)](https://github.com/divakshu04/Stock-Watch/assets/127183494/76ed9086-d78c-47ea-adb5-28132985e6e7)
+
 
 ## Installation
 
